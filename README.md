@@ -8,4 +8,8 @@ Számok intervalluma 1-100-ig.
 A végén statisztikát kell csinálni hány kérdésbő hány rosz jó volt .
 A felhsznnáló döntse-el,hogy melyyik műveletett akarja gyakorolni. 
 
+Bekérés
+Main
+Main művellet
+Kiírás
 
