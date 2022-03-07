@@ -6,5 +6,6 @@ Osztásnál ne legyen maradékos osztásos feladat.
 Csak egész számokat lehessen használni.
 Számok intervalluma 1-100-ig.
 A végén statisztikát kell csinálni hány kérdésbő hány rosz jó volt .
+A felhsznnáló döntse-el,hogy melyyik műveletett akarja gyakorolni. 
 
 
